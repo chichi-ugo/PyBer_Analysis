@@ -8,7 +8,7 @@ In this additional analysis, our goal is to depict the relationship between the 
 
 ## Results
 After compiling and sorting the data, we were able to create a dataframe that captures a summary of the rideshare fare date differentiatiated by city type.
-![]()
+![](https://github.com/chichi-ugo/PyBer_Analysis/blob/main/Resources/PyBer_sum_df.PNG?raw=true)
 
 In this summary we can make a few significant observations:
  - Rural cities have the highest average of fare per driver and fare per ride.
