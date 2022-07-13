@@ -17,7 +17,7 @@ In this summary we can make a few significant observations:
  - Suburban cities have about 4.5 times the total fare of Rural cities, and Urban cities the number jumps to 9.2.
  
  We also visualized the date through a line graph looking specifically from the month of January through the month of April of that year.
- ![]()
+ ![](https://github.com/chichi-ugo/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true)
  
 - One commonality we see here between all three city types is a spike in the fares at the end of February.
 
